@@ -5,20 +5,20 @@ Welcome to my Machine Learning research hub! This repository showcases my resear
 ## 🌟 Featured Research
 
 ### 🏥 Healthcare
-**[Coronary Artery Disease Classification](/healthcare)**
+**[Coronary Artery Disease Classification](./Healthcare)**
 - Novel approach using ECG signal analysis
 - Real patient data collected from hospitals
 - Advanced classification algorithms
 
 ### 🌿 Agriculture
-**[Cucumber Leaf Disease Classification](/agriculture)**
+**[Cucumber Leaf Disease Classification](./Agricultural)**
 - Innovative local tri-directional patterns
 - Integration with Haralick features
 - Field-collected dataset from farms
 
 
 ### 📡 Communications
-**[Automatic Modulation Classification](/communications)**
+**[Automatic Modulation Classification](./Communication)**
 - Blind scenario analysis
 - Advanced signal processing
 - Novel classification approach

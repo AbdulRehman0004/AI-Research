@@ -1,7 +1,7 @@
-# AI Research Repository
+# AI-Research
 
 ## 🎯 About This Repository
-Welcome to my AI research repository! Here, I'm open-sourcing implementations from my published research work to support the broader AI/ML community. The repository currently focuses on medical imaging and computer vision, featuring state-of-the-art classification algorithms and practical implementations.
+Welcome to my AI research repository. Here, I'm open-sourcing implementations from my published research work to support the broader AI/ML community. The repository currently spans medical AI, vision transformers, and applied machine learning projects, featuring state-of-the-art classification algorithms and practical implementations.
 
 ## 📚 Research Projects
 
@@ -24,6 +24,12 @@ Welcome to my AI research repository! Here, I'm open-sourcing implementations fr
 - Technical implementation details
 - Performance benchmarks
 
+### 4. Applied Machine Learning Research
+- Healthcare signal classification
+- Agricultural disease classification
+- Communication signal modulation classification
+- Real-world datasets and implementation notes
+
 ## 🔬 Research Interest
 
 ### Medical AI Research
@@ -32,10 +38,21 @@ Welcome to my AI research repository! Here, I'm open-sourcing implementations fr
 - Object detection
 - Depth estimation
 
+### Machine Learning
+- Healthcare
+- Agriculture
+- Communication
+
 ### Hardware Integration
 - Practical solutions combining software and hardware
 - Optimization for embedded systems
 - Real-world deployment strategies
+
+## 📁 Repository Structure
+
+- `Medical AI Research/` for medical imaging and diagnosis projects
+- `Vision Transformers/` for transformer model analysis and comparisons
+- `Machine-Learning/` for applied machine learning projects across multiple domains
 
 
 ## 🤝 Research Collaboration
