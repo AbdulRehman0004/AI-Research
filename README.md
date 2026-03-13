@@ -1,7 +1,7 @@
-# Deep Learning Research & Implementation Repository
+# AI Research Repository
 
 ## 🎯 About This Repository
-Welcome to my deep-learning research repository! Here, I'm open-sourcing implementations from my published research work to support the broader AI/ML community. The repository currently focuses on medical imaging and computer vision, featuring state-of-the-art classification algorithms and practical implementations.
+Welcome to my AI research repository! Here, I'm open-sourcing implementations from my published research work to support the broader AI/ML community. The repository currently focuses on medical imaging and computer vision, featuring state-of-the-art classification algorithms and practical implementations.
 
 ## 📚 Research Projects
 
@@ -26,7 +26,7 @@ Welcome to my deep-learning research repository! Here, I'm open-sourcing impleme
 
 ## 🔬 Research Interest
 
-### Computer Vision
+### Medical AI Research
 - Classification
 - Image segmentation
 - Object detection
@@ -44,7 +44,7 @@ I welcome collaboration opportunities in:
 - Medical imaging analysis
 - Computer vision applications
 - Deep learning architecture design
-- Hardware-software integration for practical applications Computer Vision 
+- Hardware-software integration for practical AI applications
 - Performance optimization
 
 ## 📫 Contact
